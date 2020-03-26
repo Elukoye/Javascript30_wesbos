@@ -6,3 +6,5 @@
 *live demo* :https://codepen.io/Elukoye/full/jOPvwzb
 ### project no.5 :FLEX PANEL IMAGE GALLERY
 *live demo* :https://codepen.io/Elukoye/full/MWwPBaN
+### project no.6 :TYPE AHEAD
+*live demo* :https://codepen.io/Elukoye/full/OJVaXvB
